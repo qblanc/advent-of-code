@@ -1,0 +1,8 @@
+.rubocop_todo.yml
+.rubocop.yml
+.DS_Store
+
+/2021
+/2022
+/2024/inputs
+/2024/instructions
